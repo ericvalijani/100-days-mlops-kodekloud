@@ -40,14 +40,14 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![1%](https://progress-bar.xyz/1)
+![2%](https://progress-bar.xyz/2)
 
 ## Daily Challenges
 
 | Day | Challenge | Topics | Solution |
 | --- | --------- | ------ | -------- |
 | 01 | Create a Python Virtual Environment for ML | Python, virtual environments, project setup | [Solved](days/001.md) |
-| 02 | Set Up and Configure Jupyter Notebook Server | Jupyter, notebooks, local dev setup | Pending |
+| 02 | Set Up and Configure Jupyter Notebook Server | Jupyter, notebooks, local dev setup | [Solved](days/002.md) |
 | 03 | Fix a Broken uv Lockfile Specification | uv, dependency locking, package resolution | Pending |
 | 04 | Create a Standard ML Project Structure | repository structure, packaging, conventions | Pending |
 | 05 | Create a Makefile for ML Workflow Automation | Makefile, task automation, developer workflow | Pending |
