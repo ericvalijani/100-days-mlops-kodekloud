@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![4%](https://progress-bar.xyz/4)
+![5%](https://progress-bar.xyz/5)
 
 ## Daily Challenges
 
@@ -50,7 +50,7 @@ By the end of the 100 days, you should be able to:
 | 02 | Set Up and Configure Jupyter Notebook Server | Jupyter, notebooks, local dev setup | [Solved](days/002.md) |
 | 03 | Fix a Broken uv Lockfile Specification | uv, dependency locking, package resolution | [Solved](days/003.md) |
 | 04 | Create a Standard ML Project Structure | repository structure, packaging, conventions | [Solved](days/004.md) |
-| 05 | Create a Makefile for ML Workflow Automation | Makefile, task automation, developer workflow | Pending |
+| 05 | Create a Makefile for ML Workflow Automation | Makefile, task automation, developer workflow | [Solved](days/005.md) |
 | 06 | Set Up Code Quality Tools for ML Code | linting, formatting, static analysis | Pending |
 | 07 | Package an ML Project as Installable Python Package | packaging, setuptools, installation | Pending |
 | 08 | Configure Pre-Commit Hooks for ML Repository | pre-commit, git hooks, code quality | Pending |
