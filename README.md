@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![9%](https://progress-bar.xyz/9)
+![10%](https://progress-bar.xyz/10)
 
 ## Daily Challenges
 
@@ -55,7 +55,7 @@ By the end of the 100 days, you should be able to:
 | 07 | Package an ML Project as Installable Python Package | packaging, setuptools, installation | [Solved](days/007.md) |
 | 08 | Configure Pre-Commit Hooks for ML Repository | pre-commit, git hooks, code quality | [Solved](days/008.md) |
 | 09 | Create a Custom ML Project Template with Cookiecutter | Cookiecutter, templates, scaffolding | [Solved](days/009.md) |
-| 10 | Install and Initialize DVC in an ML Project | DVC, data versioning, initialization | Pending |
+| 10 | Install and Initialize DVC in an ML Project | DVC, data versioning, initialization | [Solved](days/010.md) |
 | 11 | Track a Dataset with DVC | DVC, dataset tracking, reproducibility | Pending |
 | 12 | Configure a DVC Remote Storage | DVC, remote storage, artifact sync | Pending |
 | 13 | Pull DVC-Tracked Data from Remote | DVC, pull, data restore | Pending |
