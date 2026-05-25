@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![11%](https://progress-bar.xyz/11)
+![12%](https://progress-bar.xyz/12)
 
 ## Daily Challenges
 
@@ -57,7 +57,7 @@ By the end of the 100 days, you should be able to:
 | 09 | Create a Custom ML Project Template with Cookiecutter | Cookiecutter, templates, scaffolding | [Solved](days/009.md) |
 | 10 | Install and Initialize DVC in an ML Project | DVC, data versioning, initialization | [Solved](days/010.md) |
 | 11 | Track a Dataset with DVC | DVC, dataset tracking, reproducibility | [Solved](days/011.md) |
-| 12 | Configure a DVC Remote Storage | DVC, remote storage, artifact sync | Pending |
+| 12 | Configure a DVC Remote Storage | DVC, remote storage, artifact sync | [Solved](days/012.md) |
 | 13 | Pull DVC-Tracked Data from Remote | DVC, pull, data restore | Pending |
 | 14 | Create a DVC Pipeline for Data Processing | DVC pipelines, data processing, stages | Pending |
 | 15 | Parameterize a DVC Pipeline | DVC, parameters, pipeline configuration | Pending |
