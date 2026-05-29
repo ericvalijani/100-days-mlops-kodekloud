@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![15%](https://progress-bar.xyz/15)
+![16%](https://progress-bar.xyz/16)
 
 ## Daily Challenges
 
@@ -61,7 +61,7 @@ By the end of the 100 days, you should be able to:
 | 13 | Pull DVC-Tracked Data from Remote | DVC, pull, data restore | [Solved](days/013.md) |
 | 14 | Create a DVC Pipeline for Data Processing | DVC pipelines, data processing, stages | [Solved](days/014.md) |
 | 15 | Parameterize a DVC Pipeline | DVC, parameters, pipeline configuration | [Solved](days/015.md) |
-| 16 | Track ML Metrics with DVC | DVC, metrics, experiment tracking | Pending |
+| 16 | Track ML Metrics with DVC | DVC, metrics, experiment tracking | [Solved](days/016.md) |
 | 17 | Run and Compare DVC Experiments | DVC, experiments, comparison | Pending |
 | 18 | Version Datasets and Models Across Git Branches | Git branches, model versioning, datasets | Pending |
 | 19 | Build Complete DVC ML Pipeline with Remote Storage and Experiments | DVC, remote storage, full pipeline | Pending |
