@@ -99,4 +99,3 @@ mv "$tmp_file" "$readme_file"
 trap - EXIT
 
 printf 'Updated %s with day %s and %s%% progress.\n' "$readme_file" "$day_label" "$progress_percent"
-
