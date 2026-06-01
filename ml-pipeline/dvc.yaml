@@ -1,0 +1,50 @@
+stages:
+  ingest:
+    cmd: python scripts/ingest.py
+    deps:
+      - scripts/ingest.py
+      - data/raw/data.csv
+
+  validate:
+    cmd: python scripts/validate.py
+    deps:
+      - data/raw/data.csv
+      - scripts/validate.py
+    outs:
+      - reports/validation.json:
+          cache: false
+
+  preprocess:
+    cmd: python scripts/preprocess.py
+    deps:
+      - data/raw/data.csv
+      - scripts/preprocess.py
+    outs:
+      - data/processed/clean.csv
+
+  train:
+    cmd: python scripts/train.py
+    deps:
+      - data/processed/clean.csv
+      - scripts/train.py
+    params:
+      - n_estimators
+      - random_seed
+      - test_size
+      - max_depth
+    outs:
+      - models/model.pkl
+      - data/processed/test_split.csv
+    metrics:
+      - metrics.json:
+          cache: false
+
+  evaluate:
+    cmd: python scripts/evaluate.py
+    deps:
+      - scripts/evaluate.py
+      - models/model.pkl
+      - data/processed/test_split.csv
+    outs:
+      - reports/evaluation.json:
+          cache: false

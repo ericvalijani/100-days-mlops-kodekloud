@@ -1,0 +1,19 @@
+{
+  "rows": 20,
+  "columns": [
+    "transaction_id",
+    "amount",
+    "merchant",
+    "category",
+    "is_fraud"
+  ],
+  "null_counts": {
+    "transaction_id": 0,
+    "amount": 0,
+    "merchant": 0,
+    "category": 0,
+    "is_fraud": 0
+  },
+  "duplicates": 0,
+  "valid": true
+}
