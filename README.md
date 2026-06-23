@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![23%](https://progress-bar.xyz/23)
+![24%](https://progress-bar.xyz/24)
 
 ## Daily Challenges
 
@@ -69,7 +69,7 @@ By the end of the 100 days, you should be able to:
 | 21 | Log an ML Experiment to MLflow | MLflow, experiment logging, runs | [Solved](days/021.md) |
 | 22 | Create and Organize MLflow Experiments | MLflow, experiment management, organization | [Solved](days/022.md) |
 | 23 | Search and Query MLflow Runs | MLflow, search, querying runs | [Solved](days/023.md) |
-| 24 | Enable MLflow Autologging | MLflow, autologging, instrumentation | Pending |
+| 24 | Enable MLflow Autologging | MLflow, autologging, instrumentation | [Solved](days/024.md) |
 | 25 | Register, Version, and Manage Model Lifecycle | MLflow, model registry, lifecycle | Pending |
 | 26 | Compare Model Runs and Select the Best | MLflow, model comparison, selection | Pending |
 | 27 | Load Model from Registry with Custom Preprocessing | MLflow, registry, preprocessing | Pending |
